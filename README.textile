@@ -6,7 +6,7 @@ that column. The game was first sold under the famous “Connect Four” tradema
 can always win by beginning in the middle column. So, why should you care? It is now your job to bring this game
 to life again on the computer (surely no one else has thought of doing this)!
 
--- To run the program execute A1Application and enjoy 
+>> To run the program execute A1Application and enjoy 
 -- Its right now simple command line based ,just like the old times :)
 -- THe program just checks for complete rows vertically as of now and not diagonally
 -- will improve as I get time
